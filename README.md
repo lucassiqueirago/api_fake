@@ -7,7 +7,7 @@ I am very happy 😁 to share with you the designer at B4XPAGES.
 
 ![Screenshot](./YOUR_COINS.png)
 
-## Install
+## Be Happy
 
 This code queries currency quotes using the free https://exchangerate.host/ api.
 
