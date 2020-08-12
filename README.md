@@ -1,6 +1,6 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [X](https://www.b4x.com/android/forum/threads/b4xpages-your-coins-code-b4x-currency-quotes.121135/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [X](https://www.b4x.com/android/forum/threads/b4xpages-your-coins-code-b4x-currency-quotes.121135/).
 
 ![Screenshot](./screenshot.png)
 
