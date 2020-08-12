@@ -1,34 +1,26 @@
-# Dracula for [B4X](https://www.b4x.com/android/forum/threads/b4xpages-your-coins-code-b4x-currency-quotes.121135/)
+# [B4XPAGES] CURRENCY QUOTES [B4X](https://www.b4x.com/android/forum/threads/b4xpages-your-coins-code-b4x-currency-quotes.121135/)
 
-> A dark theme for [B4X](https://www.b4x.com/).
+> Source Code for [B4X](https://www.b4x.com/).
+
+Hi, my name is Lucas Siqueira 🇧🇷 !
+I am very happy 😁 to share with you the designer at B4XPAGES.
 
 ![Screenshot](./YOUR_COINS.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/b4x-theme-dracula](https://draculatheme.com/b4x-theme-dracula).
+This code queries currency quotes using the free https://exchangerate.host/ api.
 
-A while ago, I discovered the Dracula theme for Visual Studio Code, I was enchanted by it, as it does not strain my eyes, if I work for a while with the brightness of the monitor high, my eyes are blurred, so after using the dracula theme I noticed that even though I spend hours in front of the computer, nothing happens to my eyes ...
+I also implemented a designer with progress while the app makes the http request to get the data via json and upload it to the XCLV.
 
-So I decided to try to create something similar to the Dracula theme for our beloved B4X (the best development idea for me!)
+I hope you like the layout and my contributions! 🤓💻
+I'm in love 🥰😍 with B4X!
 
-Instructions on how to use the theme:
+Made with ❤ in [B4X](https://www.b4x.com/)
 
-(1) Download the theme_dracula.zip file.
 
-(2) Extract the Dracula.vssettings file inside the IDE's Themes folder.
-Ex:
-(B4A) C: \ Program Files (x86) \ Anywhere Software \ Basic4android \ Themes
-(B4I) C: \ Program Files (x86) \ Anywhere Software \ B4i \ Themes
-(B4J) C: \ Program Files (x86) \ Anywhere Software \ B4J \ Themes
 
-(3) with the IDE open, open TOOLS> IDE OPTIONS> THEMES, or use CTRL + T to open the list of available themes.
-
-(4) in IDE THEME, select MetroDark.
-
-(5) in CODE EDITOR THEME, select Dracula.
-
-![Screenshot](./theme_dracula_install.png)
+Inspired by [Mithun Ray](https://dribbble.com/mithunray/)
 
 ## Team
 
