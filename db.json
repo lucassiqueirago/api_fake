@@ -1,124 +1,144 @@
 {
   "compromissos": [
-    {
-      "id": 1,
-      "data": "2024-09-10 12:32:44",
-      "valor": 100,
-      "descricao": "Reunião com cliente"
-    },
-    {
-      "id": 2,
-      "data": "2024-09-10 12:32:44",
-      "valor": 150,
-      "descricao": "Almoço com o time"
-    },
-    {
-      "id": 3,
-      "data": "2024-09-11 12:32:44",
-      "valor": 200,
-      "descricao": "Reunião de planejamento"
-    },
-    {
-      "id": 4,
-      "data": "2024-09-11 12:32:44",
-      "valor": 250,
-      "descricao": "Entrega do relatório"
-    },
-    {
-      "id": 5,
-      "data": "2024-09-12 12:32:44",
-      "valor": 300,
-      "descricao": "Reunião estratégica"
-    },
-    {
-      "id": 6,
-      "data": "2024-09-12 12:32:44",
-      "valor": 350,
-      "descricao": "Chamada de vídeo com fornecedor"
-    },
-    {
-      "id": 7,
-      "data": "2024-09-13 12:32:44",
-      "valor": 400,
-      "descricao": "Sessão de brainstorming"
-    },
-    {
-      "id": 8,
-      "data": "2024-09-13 12:32:44",
-      "valor": 450,
-      "descricao": "Consulta médica"
-    },
-    {
-      "id": 9,
-      "data": "2024-09-14 12:32:44",
-      "valor": 500,
-      "descricao": "Entrega de proposta"
-    },
-    {
-      "id": 10,
-      "data": "2024-09-14 12:32:44",
-      "valor": 550,
-      "descricao": "Treinamento de equipe"
-    },
-    {
-      "id": 11,
-      "data": "2024-09-15 12:32:44",
-      "valor": 600,
-      "descricao": "Reunião mensal de resultados"
-    },
-    {
-      "id": 12,
-      "data": "2024-09-15 12:32:44",
-      "valor": 650,
-      "descricao": "Visita ao cliente"
-    },
-    {
-      "id": 13,
-      "data": "2024-09-16 12:32:44",
-      "valor": 700,
-      "descricao": "Revisão de contrato"
-    },
-    {
-      "id": 14,
-      "data": "2024-09-16 12:32:44",
-      "valor": 750,
-      "descricao": "Discussão do orçamento"
-    },
-    {
-      "id": 15,
-      "data": "2024-09-17 12:32:44",
-      "valor": 800,
-      "descricao": "Evento de lançamento"
-    },
-    {
-      "id": 16,
-      "data": "2024-09-17 12:32:44",
-      "valor": 850,
-      "descricao": "Workshop sobre novas tecnologias"
-    },
-    {
-      "id": 17,
-      "data": "2024-09-18 12:32:44",
-      "valor": 900,
-      "descricao": "Reunião de feedback"
-    },
-    {
-      "id": 18,
-      "data": "2024-09-18 12:32:44",
-      "valor": 950,
-      "descricao": "Treinamento de equipe"
-    },
-    {
-      "id": 19,
-      "data": "2024-09-19 12:32:44",
-      "valor": 1000,
-      "descricao": "Entrega de relatório"
-    },
-    {
-      "id": 20,
-      "data": "2024-09-19 12:32:44",
-      "valor": 1050,
-      "descricao": "Revisão de metas"
-    }
-  ]
+  {
+    "id": 1,
+    "data": "2024-09-10",
+    "hora": "12:32:44",
+    "valor": 100,
+    "descricao": "Reunião com cliente"
+  },
+  {
+    "id": 2,
+    "data": "2024-09-10",
+    "hora": "12:32:44",
+    "valor": 150,
+    "descricao": "Almoço com o time"
+  },
+  {
+    "id": 3,
+    "data": "2024-09-11",
+    "hora": "12:32:44",
+    "valor": 200,
+    "descricao": "Reunião de planejamento"
+  },
+  {
+    "id": 4,
+    "data": "2024-09-11",
+    "hora": "12:32:44",
+    "valor": 250,
+    "descricao": "Entrega do relatório"
+  },
+  {
+    "id": 5,
+    "data": "2024-09-12",
+    "hora": "12:32:44",
+    "valor": 300,
+    "descricao": "Reunião estratégica"
+  },
+  {
+    "id": 6,
+    "data": "2024-09-12",
+    "hora": "12:32:44",
+    "valor": 350,
+    "descricao": "Chamada de vídeo com fornecedor"
+  },
+  {
+    "id": 7,
+    "data": "2024-09-13",
+    "hora": "12:32:44",
+    "valor": 400,
+    "descricao": "Sessão de brainstorming"
+  },
+  {
+    "id": 8,
+    "data": "2024-09-13",
+    "hora": "12:32:44",
+    "valor": 450,
+    "descricao": "Consulta médica"
+  },
+  {
+    "id": 9,
+    "data": "2024-09-14",
+    "hora": "12:32:44",
+    "valor": 500,
+    "descricao": "Entrega de proposta"
+  },
+  {
+    "id": 10,
+    "data": "2024-09-14",
+    "hora": "12:32:44",
+    "valor": 550,
+    "descricao": "Treinamento de equipe"
+  },
+  {
+    "id": 11,
+    "data": "2024-09-15",
+    "hora": "12:32:44",
+    "valor": 600,
+    "descricao": "Reunião mensal de resultados"
+  },
+  {
+    "id": 12,
+    "data": "2024-09-15",
+    "hora": "12:32:44",
+    "valor": 650,
+    "descricao": "Visita ao cliente"
+  },
+  {
+    "id": 13,
+    "data": "2024-09-16",
+    "hora": "12:32:44",
+    "valor": 700,
+    "descricao": "Revisão de contrato"
+  },
+  {
+    "id": 14,
+    "data": "2024-09-16",
+    "hora": "12:32:44",
+    "valor": 750,
+    "descricao": "Discussão do orçamento"
+  },
+  {
+    "id": 15,
+    "data": "2024-09-17",
+    "hora": "12:32:44",
+    "valor": 800,
+    "descricao": "Evento de lançamento"
+  },
+  {
+    "id": 16,
+    "data": "2024-09-17",
+    "hora": "12:32:44",
+    "valor": 850,
+    "descricao": "Workshop sobre novas tecnologias"
+  },
+  {
+    "id": 17,
+    "data": "2024-09-18",
+    "hora": "12:32:44",
+    "valor": 900,
+    "descricao": "Reunião de feedback"
+  },
+  {
+    "id": 18,
+    "data": "2024-09-18",
+    "hora": "12:32:44",
+    "valor": 950,
+    "descricao": "Treinamento de equipe"
+  },
+  {
+    "id": 19,
+    "data": "2024-09-19",
+    "hora": "12:32:44",
+    "valor": 1000,
+    "descricao": "Entrega de relatório"
+  },
+  {
+    "id": 20,
+    "data": "2024-09-19",
+    "hora": "12:32:44",
+    "valor": 1050,
+    "descricao": "Revisão de metas"
+  }
+]
 }
